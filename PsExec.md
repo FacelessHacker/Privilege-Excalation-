@@ -1,4 +1,7 @@
-# Privilege-Excalation-
+# RUNNING CMD THROUGH PSEXEC
+
+Follow the steps below to run cmd.exe using PsExec
+- 
 
 Place it in your C:\ drive.
 
