@@ -1,7 +1,11 @@
 # RUNNING CMD THROUGH PSEXEC
 
-Follow the steps below to run cmd.exe using PsExec
-- 
+##### Follow the steps below to run cmd.exe using PsExec
+
+- Download PsExec Tools from Microsoft Sysinternals using this link https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
+- Extract the zip file
+- Save
+
 
 Place it in your C:\ drive.
 
