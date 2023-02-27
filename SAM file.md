@@ -31,3 +31,5 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
   ```
   psexec -i -d -s c:\windows\regedit.exe
   ```
+  
+  ![UI Image](https://github.com/FacelessHacker/Privilege-Excalation-/blob/main/Screenshot%20(80).png)
