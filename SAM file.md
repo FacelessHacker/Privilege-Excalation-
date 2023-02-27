@@ -17,3 +17,5 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
   reg save hklm\system C:\system copy
   ```
   Note that C:\samcopy is the name of the path you want to save the copy of sam file & same goes for the system file
+ - Check the location you entered, you will see your files there.
+ - 
