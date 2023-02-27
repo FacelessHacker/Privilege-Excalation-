@@ -23,3 +23,11 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
  - Check the location you entered, you will see your files there.
  
   ![UI Image](https://github.com/FacelessHacker/Privilege-Excalation-/blob/main/Screenshot%20(79).png)
+  
+### Step 2
+- Navigate to  PSTOOLS on your command prompt
+- Type the command below to access the registry editor as the system user
+
+  ```
+  psexec -i -d -s c:\windows\regedit.exe
+  ```
