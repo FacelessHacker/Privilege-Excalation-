@@ -24,7 +24,8 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
  
   ![UI Image](https://github.com/FacelessHacker/Privilege-Excalation-/blob/main/Screenshot%20(79).png)
   
-### Step 2
+### Step 2;
+
 - Navigate to  PSTOOLS on your command prompt
 - Type the command below to access the registry editor as the system user
 
@@ -33,3 +34,7 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
   ```
   
   ![UI Image](https://github.com/FacelessHacker/Privilege-Excalation-/blob/main/Screenshot%20(80).png)
+
+
+### Step 3
+- Download Samfile reader to read the content of sam file
