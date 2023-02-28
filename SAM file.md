@@ -8,7 +8,7 @@ Security Account Manager (SAM) is a database file in Windows 11/10/8/7/XP that s
 ### Read Content of SAM File with CMD (Command Prompt)
 
 - Run the command prompt as the system user
-- Enter the commnands below
+- Enter the commands below
 
   ```
   reg save hklm\sam C:\samcopy
